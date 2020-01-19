@@ -13,3 +13,5 @@ Bill of Materials:
 A couple M3x6 screws and some super glue are also needed for assembly
 
 ![Programmer Wiring](https://github.com/glytchtech/ESPCam/blob/master/Images/ESP32Cam%20Programming%20Wiring.jpg)
+
+##### This project has been directly forked from https://github.com/glytchtech/ESPCam. Props to him for creating this amazing project, and sharing it with the world! Go check him out on Youtube @ https://www.youtube.com/glytch for more amazing projects and some tasty knowledge!
